@@ -1,0 +1,114 @@
+﻿  Reading Qt configuration (C:/Qt/5.15.2/msvc2019/bin/qmake)
+  uic Mashware4017.ui
+  rcc Mashware4017.qrc
+  moc Mashware4017.h
+  moc myopenglwidget.h
+   RCC: Warning: No resources in 'C:\Users\Zerokei\Desktop\Mashware4017\Mashware4017\Mashware4017.qrc'.
+  plylib.cpp
+  myopenglwidget.cpp
+  Mashware4017.cpp
+  main.cpp
+C:\Qt\5.15.2\msvc2019\include\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 myopenglwidget.cpp)
+C:\Qt\5.15.2\msvc2019\include\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 main.cpp)
+C:\Qt\5.15.2\msvc2019\include\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Mashware4017.cpp)
+C:\Qt\5.15.2\msvc2019\include\wrap\io_trimesh\import_obj.h(436,42): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值 (编译源文件 myopenglwidget.cpp)
+C:\Qt\5.15.2\msvc2019\include\wrap\io_trimesh\import_obj.h(230): message : 在编译 类 模板 成员函数“int vcg::tri::io::ImporterOBJ<OpenMeshType>::Open(OpenMeshType &,const char *,vcg::tri::io::ImporterOBJ<OpenMeshType>::Info &)”时
+          with
+          [
+              OpenMeshType=MyMesh
+          ] (编译源文件 myopenglwidget.cpp)
+C:\Qt\5.15.2\msvc2019\include\wrap\io_trimesh\import_obj.h(217): message : 查看对正在编译的函数 模板 实例化“int vcg::tri::io::ImporterOBJ<OpenMeshType>::Open(OpenMeshType &,const char *,vcg::tri::io::ImporterOBJ<OpenMeshType>::Info &)”的引用
+          with
+          [
+              OpenMeshType=MyMesh
+          ] (编译源文件 myopenglwidget.cpp)
+C:\Qt\5.15.2\msvc2019\include\wrap\io_trimesh\import.h(171): message : 查看对正在编译的 类 模板 实例化“vcg::tri::io::ImporterOBJ<OpenMeshType>”的引用
+          with
+          [
+              OpenMeshType=MyMesh
+          ] (编译源文件 myopenglwidget.cpp)
+C:\Qt\5.15.2\msvc2019\include\wrap\io_trimesh\import.h(165): message : 在编译 类 模板 成员函数“const char *vcg::tri::io::Importer<MyMesh>::ErrorMsg(int)”时 (编译源文件 myopenglwidget.cpp)
+C:\Users\Zerokei\Desktop\Mashware4017\Mashware4017\myvcg.h(55): message : 查看对正在编译的函数 模板 实例化“const char *vcg::tri::io::Importer<MyMesh>::ErrorMsg(int)”的引用 (编译源文件 myopenglwidget.cpp)
+C:\Users\Zerokei\Desktop\Mashware4017\Mashware4017\myvcg.h(53): message : 查看对正在编译的 类 模板 实例化“vcg::tri::io::Importer<MyMesh>”的引用 (编译源文件 myopenglwidget.cpp)
+C:\Qt\5.15.2\msvc2019\include\wrap\io_trimesh\import_obj.h(436,42): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值 (编译源文件 main.cpp)
+C:\Qt\5.15.2\msvc2019\include\wrap\io_trimesh\import_obj.h(230): message : 在编译 类 模板 成员函数“int vcg::tri::io::ImporterOBJ<OpenMeshType>::Open(OpenMeshType &,const char *,vcg::tri::io::ImporterOBJ<OpenMeshType>::Info &)”时
+          with
+          [
+              OpenMeshType=MyMesh
+          ] (编译源文件 main.cpp)
+C:\Qt\5.15.2\msvc2019\include\wrap\io_trimesh\import_obj.h(217): message : 查看对正在编译的函数 模板 实例化“int vcg::tri::io::ImporterOBJ<OpenMeshType>::Open(OpenMeshType &,const char *,vcg::tri::io::ImporterOBJ<OpenMeshType>::Info &)”的引用
+          with
+          [
+              OpenMeshType=MyMesh
+          ] (编译源文件 main.cpp)
+C:\Qt\5.15.2\msvc2019\include\wrap\io_trimesh\import.h(171): message : 查看对正在编译的 类 模板 实例化“vcg::tri::io::ImporterOBJ<OpenMeshType>”的引用
+          with
+          [
+              OpenMeshType=MyMesh
+          ] (编译源文件 main.cpp)
+C:\Qt\5.15.2\msvc2019\include\wrap\io_trimesh\import.h(165): message : 在编译 类 模板 成员函数“const char *vcg::tri::io::Importer<MyMesh>::ErrorMsg(int)”时 (编译源文件 main.cpp)
+C:\Users\Zerokei\Desktop\Mashware4017\Mashware4017\myvcg.h(55): message : 查看对正在编译的函数 模板 实例化“const char *vcg::tri::io::Importer<MyMesh>::ErrorMsg(int)”的引用 (编译源文件 main.cpp)
+C:\Users\Zerokei\Desktop\Mashware4017\Mashware4017\myvcg.h(53): message : 查看对正在编译的 类 模板 实例化“vcg::tri::io::Importer<MyMesh>”的引用 (编译源文件 main.cpp)
+C:\Qt\5.15.2\msvc2019\include\wrap\io_trimesh\import_obj.h(436,42): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值 (编译源文件 Mashware4017.cpp)
+C:\Qt\5.15.2\msvc2019\include\wrap\io_trimesh\import_obj.h(230): message : 在编译 类 模板 成员函数“int vcg::tri::io::ImporterOBJ<OpenMeshType>::Open(OpenMeshType &,const char *,vcg::tri::io::ImporterOBJ<OpenMeshType>::Info &)”时
+          with
+          [
+              OpenMeshType=MyMesh
+          ] (编译源文件 Mashware4017.cpp)
+C:\Qt\5.15.2\msvc2019\include\wrap\io_trimesh\import_obj.h(217): message : 查看对正在编译的函数 模板 实例化“int vcg::tri::io::ImporterOBJ<OpenMeshType>::Open(OpenMeshType &,const char *,vcg::tri::io::ImporterOBJ<OpenMeshType>::Info &)”的引用
+          with
+          [
+              OpenMeshType=MyMesh
+          ] (编译源文件 Mashware4017.cpp)
+C:\Qt\5.15.2\msvc2019\include\wrap\io_trimesh\import.h(171): message : 查看对正在编译的 类 模板 实例化“vcg::tri::io::ImporterOBJ<OpenMeshType>”的引用
+          with
+          [
+              OpenMeshType=MyMesh
+          ] (编译源文件 Mashware4017.cpp)
+C:\Qt\5.15.2\msvc2019\include\wrap\io_trimesh\import.h(165): message : 在编译 类 模板 成员函数“const char *vcg::tri::io::Importer<MyMesh>::ErrorMsg(int)”时 (编译源文件 Mashware4017.cpp)
+C:\Users\Zerokei\Desktop\Mashware4017\Mashware4017\myvcg.h(55): message : 查看对正在编译的函数 模板 实例化“const char *vcg::tri::io::Importer<MyMesh>::ErrorMsg(int)”的引用 (编译源文件 Mashware4017.cpp)
+C:\Users\Zerokei\Desktop\Mashware4017\Mashware4017\myvcg.h(53): message : 查看对正在编译的 类 模板 实例化“vcg::tri::io::Importer<MyMesh>”的引用 (编译源文件 Mashware4017.cpp)
+  qrc_Mashware4017.cpp
+  moc_Mashware4017.cpp
+  moc_myopenglwidget.cpp
+C:\Qt\5.15.2\msvc2019\include\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Release\moc\moc_myopenglwidget.cpp)
+C:\Qt\5.15.2\msvc2019\include\vcg\complex\algorithms\update\color.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Release\moc\moc_Mashware4017.cpp)
+C:\Qt\5.15.2\msvc2019\include\wrap\io_trimesh\import_obj.h(436,42): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值 (编译源文件 Release\moc\moc_myopenglwidget.cpp)
+C:\Qt\5.15.2\msvc2019\include\wrap\io_trimesh\import_obj.h(230): message : 在编译 类 模板 成员函数“int vcg::tri::io::ImporterOBJ<OpenMeshType>::Open(OpenMeshType &,const char *,vcg::tri::io::ImporterOBJ<OpenMeshType>::Info &)”时
+          with
+          [
+              OpenMeshType=MyMesh
+          ] (编译源文件 Release\moc\moc_myopenglwidget.cpp)
+C:\Qt\5.15.2\msvc2019\include\wrap\io_trimesh\import_obj.h(217): message : 查看对正在编译的函数 模板 实例化“int vcg::tri::io::ImporterOBJ<OpenMeshType>::Open(OpenMeshType &,const char *,vcg::tri::io::ImporterOBJ<OpenMeshType>::Info &)”的引用
+          with
+          [
+              OpenMeshType=MyMesh
+          ] (编译源文件 Release\moc\moc_myopenglwidget.cpp)
+C:\Qt\5.15.2\msvc2019\include\wrap\io_trimesh\import.h(171): message : 查看对正在编译的 类 模板 实例化“vcg::tri::io::ImporterOBJ<OpenMeshType>”的引用
+          with
+          [
+              OpenMeshType=MyMesh
+          ] (编译源文件 Release\moc\moc_myopenglwidget.cpp)
+C:\Qt\5.15.2\msvc2019\include\wrap\io_trimesh\import.h(165): message : 在编译 类 模板 成员函数“const char *vcg::tri::io::Importer<MyMesh>::ErrorMsg(int)”时 (编译源文件 Release\moc\moc_myopenglwidget.cpp)
+C:\Users\Zerokei\Desktop\Mashware4017\Mashware4017\myvcg.h(55): message : 查看对正在编译的函数 模板 实例化“const char *vcg::tri::io::Importer<MyMesh>::ErrorMsg(int)”的引用 (编译源文件 Release\moc\moc_myopenglwidget.cpp)
+C:\Users\Zerokei\Desktop\Mashware4017\Mashware4017\myvcg.h(53): message : 查看对正在编译的 类 模板 实例化“vcg::tri::io::Importer<MyMesh>”的引用 (编译源文件 Release\moc\moc_myopenglwidget.cpp)
+C:\Qt\5.15.2\msvc2019\include\wrap\io_trimesh\import_obj.h(436,42): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值 (编译源文件 Release\moc\moc_Mashware4017.cpp)
+C:\Qt\5.15.2\msvc2019\include\wrap\io_trimesh\import_obj.h(230): message : 在编译 类 模板 成员函数“int vcg::tri::io::ImporterOBJ<OpenMeshType>::Open(OpenMeshType &,const char *,vcg::tri::io::ImporterOBJ<OpenMeshType>::Info &)”时
+          with
+          [
+              OpenMeshType=MyMesh
+          ] (编译源文件 Release\moc\moc_Mashware4017.cpp)
+C:\Qt\5.15.2\msvc2019\include\wrap\io_trimesh\import_obj.h(217): message : 查看对正在编译的函数 模板 实例化“int vcg::tri::io::ImporterOBJ<OpenMeshType>::Open(OpenMeshType &,const char *,vcg::tri::io::ImporterOBJ<OpenMeshType>::Info &)”的引用
+          with
+          [
+              OpenMeshType=MyMesh
+          ] (编译源文件 Release\moc\moc_Mashware4017.cpp)
+C:\Qt\5.15.2\msvc2019\include\wrap\io_trimesh\import.h(171): message : 查看对正在编译的 类 模板 实例化“vcg::tri::io::ImporterOBJ<OpenMeshType>”的引用
+          with
+          [
+              OpenMeshType=MyMesh
+          ] (编译源文件 Release\moc\moc_Mashware4017.cpp)
+C:\Qt\5.15.2\msvc2019\include\wrap\io_trimesh\import.h(165): message : 在编译 类 模板 成员函数“const char *vcg::tri::io::Importer<MyMesh>::ErrorMsg(int)”时 (编译源文件 Release\moc\moc_Mashware4017.cpp)
+C:\Users\Zerokei\Desktop\Mashware4017\Mashware4017\myvcg.h(55): message : 查看对正在编译的函数 模板 实例化“const char *vcg::tri::io::Importer<MyMesh>::ErrorMsg(int)”的引用 (编译源文件 Release\moc\moc_Mashware4017.cpp)
+C:\Users\Zerokei\Desktop\Mashware4017\Mashware4017\myvcg.h(53): message : 查看对正在编译的 类 模板 实例化“vcg::tri::io::Importer<MyMesh>”的引用 (编译源文件 Release\moc\moc_Mashware4017.cpp)
+  Mashware4017.vcxproj -> C:\Users\Zerokei\Desktop\Mashware4017\Release\Mashware4017.exe
