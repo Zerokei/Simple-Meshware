@@ -15,6 +15,3 @@ And then it will install automatically
 * `sourcecode` my source code for simple-meshware
 * `vs Project` my visual studio project which may need environment visual studio 2019(with Qt vs tools) and Qt 5.15.2
 
-## Contact me
-If you have any problem, welcome to contact me at twentyeightkei@gmail.com
-
