@@ -1,4 +1,4 @@
-# Simple Meshware
+# Simple Meshware :snake:
 Completed in 2021/12/23 \
 Thanks to lqing, who helped me a lot to build the project
 
